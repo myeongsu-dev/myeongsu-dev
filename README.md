@@ -30,7 +30,7 @@
 | Category | Project | Description | Status |
 |---|---|---|---|
 | Embedded / Edge AI | [esp32-slm-completer](https://github.com/myeongsu-dev/esp32-slm-completer) | Python code completion running on an ESP32-S3 | `In progress` |
-| | [VEDA-final-3jo](https://github.com/myeongsu-dev/VEDA-final-3jo) | Forklift blind-spot collision warning system, team of 5 | |
+| | [forklift-blindspot-safety](https://github.com/myeongsu-dev/forklift-blindspot-safety) | Forklift blind-spot collision warning system, team of 5 | |
 | Apps / Tools | [hwp-mcp](https://github.com/myeongsu-dev/hwp-mcp/tree/feat/rhwp-headless) | Fork of [jkf87/hwp-mcp](https://github.com/jkf87/hwp-mcp), replacing Hancom COM automation with a headless rhwp backend | `In progress` |
 | | [Claude-Tracker](https://github.com/myeongsu-dev/Claude-Tracker) | Tray app that shows Claude Code usage (Qt6) | |
 | | [PritterCare](https://github.com/myeongsu-dev/PritterCare) | Android app for a remote-controlled pet cage with Arduino, team of 4 | |
